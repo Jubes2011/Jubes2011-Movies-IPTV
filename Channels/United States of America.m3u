@@ -1,0 +1,16 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="Echeer.tv" tvg-country="US" tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/proxy/V6N7UlZ2nbWppz5k1aCmDZVa6jPruU98zQka9c4ZGZAyB218dx4Bflk4jt1Nh6ZDl9P0aj-_scBUzP10_w_aj071A5DEu9HoDlVF_3KBlcCR" group-title="Sports", Echeer TV Fall Classic 
+https://play.boxcast.com/p/euxk3ffxlywthbllqyyy/v/720p-byteranges.m3u8
+#EXTINF:-1 tvg-id="Echeer.tv" tvg-country="US" tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/proxy/V6N7UlZ2nbWppz5k1aCmDZVa6jPruU98zQka9c4ZGZAyB218dx4Bflk4jt1Nh6ZDl9P0aj-_scBUzP10_w_aj071A5DEu9HoDlVF_3KBlcCR" group-title="Sports", Echeer TV All Out Channel 
+https://play.boxcast.com/p/uli9rttva6b0rn0s8xjb/v/720p-byteranges.m3u8
+#EXTINF:-1 tvg-id="Echeer.tv" tvg-country="US" tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/proxy/V6N7UlZ2nbWppz5k1aCmDZVa6jPruU98zQka9c4ZGZAyB218dx4Bflk4jt1Nh6ZDl9P0aj-_scBUzP10_w_aj071A5DEu9HoDlVF_3KBlcCR" group-title="Sports", Echeer TV Apex Channel 
+https://play.boxcast.com/p/tnknhwswogh8gf3t95sv/v/720p-byteranges.m3u8
+#EXTINF:-1 tvg-id="Echeer.tv" tvg-country="US" tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/proxy/V6N7UlZ2nbWppz5k1aCmDZVa6jPruU98zQka9c4ZGZAyB218dx4Bflk4jt1Nh6ZDl9P0aj-_scBUzP10_w_aj071A5DEu9HoDlVF_3KBlcCR" group-title="Sports", Echeer TV ASWC Channel 
+https://play.boxcast.com/p/gs7y5ml4s8usfn6c2op0/v/240p-byteranges.m3u8
+#EXTINF:-1 tvg-id="Pluto.tv" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/thumbnail.jpg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=80&h=80&dpr=2&q=50" group-title="Featured", Pluto Thrillers 
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5b4e69e08291147bd04a9fd7/3063648/playlist.m3u8
+#EXTINF:-1 tvg-id="Pluto.tv" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/thumbnail.jpg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=80&h=80&dpr=2&q=50" group-title="Featured", TV Land Drama
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/3063648/playlist.m3u8
+#EXTINF:-1 tvg-id="Pluto.tv" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/thumbnail.jpg?auto=&fit=crop&fill=blur&ixlib=react-9.1.5&w=80&h=80&dpr=2&q=50" group-title="Featured", Funny AF
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/580e87ff497c73ba2f321dd3/3063648/playlist.m3u8
+#EXTINF:-1
