@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATV.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="General",ATV (720p) [Offline]
+#EXTINF:-1 tvg-id="ATV.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_mobil_logo_22122020093710.png" group-title="General", ATV
+https://videos.rtva.ad/live/rtva/chunklist_w421031919_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjM4MTY4NDYzJndvd3phdG9rZW5lbmR0aW1lPTE2MzgxOTAwNjMmd293emF0b2tlbmhhc2g9SEZaMUdJSWNQZHJHcHU5MkFzdWFIaTdLVUJFQ05EVXdJSmFzVmdnQ1gtaz0=.m3u8
+#EXTINF:-1 tvg.id="RTVA.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://diegofernandez.design/wp-content/uploads/2013/07/rtva_1280px.jpg" group-title="Entertainment", RTVA
+https://videos.rtva.ad/live/web/chunklist_w1591545747_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjM4MTY5NDcxJndvd3phdG9rZW5lbmR0aW1lPTE2MzgxOTEwNzEmd293emF0b2tlbmhhc2g9eEx4ZHlBOXV0dG5wb05aaGdWZkVFX0lYLWpnUU5fc0NOMzBXekY3UE52Yz0=.m3u8
+#EXTINF:-1 tvg-id="Emmanuel.ad" tvg-country="AD" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71SgJT0+jwL.png" group-title="Religion", Emmanuel TV
+https://hls-live-web-media.cdn01.net/default/stream_39565_1.m3u8
