@@ -1,0 +1,95 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", MRT 2
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3598?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", MRT 2  FHD
+http://aziptv.live:80/Hdservers/Valendsuk/912?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", MTV Kosova
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12584?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", MY MUSIC HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3419?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Masha dhe Ariu HD
+http://aziptv.live:80/Hdservers/Valendsuk/12599?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Medina Live
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133772?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Medina Live HD
+http://aziptv.live:80/Hdservers/Valendsuk/8321?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Medina Live HD
+http://aziptv.live:80/Hdservers/Valendsuk/1170?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Mekka Live
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173853?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Mekka Live HD
+http://aziptv.live:80/Hdservers/Valendsuk/1171?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Mekka Live HD
+http://aziptv.live:80/Hdservers/Valendsuk/8320?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Melody TV
+http://iptvch.com:2082/ahmad123/ahmad321/152848?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Music Al
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173854?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Muzike Shqip HD
+http://aziptv.live:80/Hdservers/Valendsuk/1059?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", My Music
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25665?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", My Music
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12585?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", My Music
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133876?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", My Music HD
+http://aziptv.live:80/Hdservers/Valendsuk/6689?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", NETFLIX
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/246053?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", NEWS 24
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73430?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", NEWS 24
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3572?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News", News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="News", News 24
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1036?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News", News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", News 24 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/974?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", ON TV
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133880?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", ORA NEWS HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3573?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", ORA News
+http://willwin.ayproviders.xyz:80/taRLeEk5r6/nbmg59RTM/97743?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Ontv.al info
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25630?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="News", Ora News
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1038?checkedby:iptvcat.com
+

@@ -1,0 +1,410 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", POPULLORE 21 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173857?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Peace TV
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133769?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Undefined", Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Peace TV Anglisht
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133770?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Peace TV Anglisht HD
+http://aziptv.live:80/Hdservers/Valendsuk/1167?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Peace TV HD
+http://aziptv.live:80/Hdservers/Valendsuk/1168?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Peace TV HD
+http://aziptv.live:80/Hdservers/Valendsuk/8324?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Peace TV HD
+http://aziptv.live:80/Hdservers/Valendsuk/6403?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Plus HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173858?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Popullore HD
+http://aziptv.live:80/Hdservers/Valendsuk/1057?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", PrinceKids
+http://aziptv.live:80/Hdservers/Valendsuk/13677?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Q HUMOR HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3480?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", REPORT TV
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3570?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", ROMA TV
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10464?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 1
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3610?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 1 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/902?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 1 FHD VIP
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10468?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 1 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73452?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 1 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3609?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 1 HD
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25643?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 3
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25645?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 3
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3607?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 3 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/904?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 3 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73454?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 4
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3606?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 4 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/905?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK 4 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73455?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTK Sat FHD
+http://aziptv.live:80/Hdservers/Valendsuk/931?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTP Presheva
+http://aziptv.live:80/Hdservers/Valendsuk/6322?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 1
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25654?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 1
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3621?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 1
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73439?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 1 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/987?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 1 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73405?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 1 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3620?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 2 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/989?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 2 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73407?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 2 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3619?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 24
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25656?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 24
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73443?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 24 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3614?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 3
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73441?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 3
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3618?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 3
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25657?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH 3 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/991?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH FEMIJE
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3549?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH FILM HD
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10482?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Femije
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12575?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Femije
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25658?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Femije
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73448?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Femije FHD
+http://aziptv.live:80/Hdservers/Valendsuk/1141?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Femije HD
+http://aziptv.live:80/Hdservers/Valendsuk/8332?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Film
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12491?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Film FHD
+http://aziptv.live:80/Hdservers/Valendsuk/997?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH KUVEND
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3612?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Kuvend
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173860?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH MUZIKE
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3617?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Music FHD
+http://aziptv.live:80/Hdservers/Valendsuk/994?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Muzik
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12587?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Muzike
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25660?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Muzike
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73445?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH PLUS
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3613?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Plus
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25661?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Plus
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12492?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Plus
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73447?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH SAT
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173861?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH SHQIP
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3616?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RTSH SPORT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/125251.ts?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTSH Shqip
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12493?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RTSH Sport
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25663?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RTSH Sport
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12622?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RTSH Sport FHD
+http://aziptv.live:80/Hdservers/Valendsuk/998?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RTSH Sport HD
+http://willwin.ayproviders.xyz:80/taRLeEk5r6/nbmg59RTM/97748?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", RTSH Sport HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73490?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25646?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 FHD
+http://aziptv.live:80/Hdservers/Valendsuk/926?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 HD
+http://willwin.ayproviders.xyz:80/taRLeEk5r6/nbmg59RTM/97680?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73469?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Junior
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25648?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Junior
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73470?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 MK HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73472?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Maqedoni
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25649?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Mix
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73473?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Mix FHD
+http://aziptv.live:80/Hdservers/Valendsuk/928?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 NewsBiz
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25651?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 NewsBiz FHD
+http://aziptv.live:80/Hdservers/Valendsuk/937?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Plus
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25652?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Plus  HD
+http://aziptv.live:80/Hdservers/Valendsuk/12527?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Plus HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73474?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Plus HD
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12588?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Popullore
+http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/43432?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Popullore
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12589?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Popullore
+http://willwin.ayproviders.xyz:80/taRLeEk5r6/nbmg59RTM/97679?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Popullore
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73475?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV 21 Popullore HD
+http://aziptv.live:80/Hdservers/Valendsuk/6667?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV Fontana
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133868?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV Fontana FHD
+http://aziptv.live:80/Hdservers/Valendsuk/959?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV ILIRIDA
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/139045?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV ISLAM
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/138130?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV Islam
+http://x122.club:8080/pyTZBMgQ/fWXbD7Zg/12567?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV PENDIMI TV
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3357?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV Pendimi HD
+http://aziptv.live:80/Hdservers/Valendsuk/6401?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV Pendimi HD
+http://aziptv.live:80/Hdservers/Valendsuk/8323?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV21
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3605?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV21 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3604?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV21 JUNIOR
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3550?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV21 MAQEDONIA
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3602?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV21 MIX
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3595?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV21 PLUS
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3594?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", RTV21 POPULLORE
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3412?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Report TV
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73435?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Report TV
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/25664?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Report Tv
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1064?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Resalat Al Islam HD
+http://aziptv.live:80/Hdservers/Valendsuk/6405?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Roma TV FHD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133884?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rrokum  HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133773?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtsh 1
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1028?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtsh 2
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1029?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtsh 24
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1031?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtsh 3
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1030?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtsh Agro
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1032?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport", Rtsh Sport
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1033?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtv 21
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1063?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtv Pendimi
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133768?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", Rtv islam
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/73468?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SCAN TV
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3563?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SHARRI
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/173862?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SHENJA TV
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3597?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SHQIPTV FILM HD
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10518?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SHQIPTV KOMEDI HD
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10524?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SHQIPTV WESTERN HD
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10528?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SKY AKSION
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10529?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SKY PLANET
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/3430?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SMILE HD
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/133866?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", SOFIA TV
+http://aromatv.co:80/0555141417/IdkUd4bHIO/10538?checkedby:iptvcat.com
+

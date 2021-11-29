@@ -1,0 +1,404 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTSH 2 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185020
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTSH 3 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185021
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTSH Shqip
+http://shooters.live:8080/0161711812846558/0161711812846558/185022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTK 1 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185023
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTK 2 FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185025
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTK 2 [B] HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185026
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTK 3 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185027
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTK 4 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185029
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Klan TV FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185034
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Klan TV HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185035
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alsat M FHD VIP
+http://shooters.live:8080/0161711812846558/0161711812846558/185036
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alsat M HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185037
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alsat M
+http://shooters.live:8080/0161711812846558/0161711812846558/185038
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Klan Kosova FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185039
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Klan Plus HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185041
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV 21 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185042
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV 21 Toksor
+http://shooters.live:8080/0161711812846558/0161711812846558/185044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV 21 Maqedonia
+http://shooters.live:8080/0161711812846558/0161711812846558/185045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vizion Plus FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185050
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vizion Plus HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185051
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vizion Plus EST HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185052
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Vizion Plus Toksor FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Shenja TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185056
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Koha
+http://shooters.live:8080/0161711812846558/0161711812846558/185059
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ERA TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185060
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Dukagjini HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Premium Channel HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185064
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EuroNewsbania
+http://shooters.live:8080/0161711812846558/0161711812846558/185065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tema TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185066
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Scan FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185067
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Mitrovica
+http://shooters.live:8080/0161711812846558/0161711812846558/185068
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Kopliku HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185069
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV Pendimi
+http://shooters.live:8080/0161711812846558/0161711812846558/185070
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kanal 10 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185071
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ABC News
+http://shooters.live:8080/0161711812846558/0161711812846558/185074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Top News
+http://shooters.live:8080/0161711812846558/0161711812846558/185078
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A1 Report
+http://shooters.live:8080/0161711812846558/0161711812846558/185079
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kanali 7
+http://shooters.live:8080/0161711812846558/0161711812846558/185080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Top News HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185081
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", News 24 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185082
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATV FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185083
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Arta TV HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Report TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 7 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185086
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Peace TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185090
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Supersport 1 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Supersport 2 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Supersport 3 FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Supersport 4 FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185095
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Sport 2 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Sport 3 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Sport 4 [Match Time] FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kujtesa Sport 1 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kujtesa Sport 3 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kujtesa Sport 4 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTSH Sport HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Aksion FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Aksion HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Hits FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Hits HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Nje HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film DY HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185112
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Komedi
+http://shooters.live:8080/0161711812846558/0161711812846558/185113
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Thriller
+http://shooters.live:8080/0161711812846558/0161711812846558/185114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Autor
+http://shooters.live:8080/0161711812846558/0161711812846558/185115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Stinet
+http://shooters.live:8080/0161711812846558/0161711812846558/185117
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Film Family FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring 3 Plus
+http://shooters.live:8080/0161711812846558/0161711812846558/185119
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Comedy
+http://shooters.live:8080/0161711812846558/0161711812846558/185120
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Fantasy
+http://shooters.live:8080/0161711812846558/0161711812846558/185121
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Jolly FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Life
+http://shooters.live:8080/0161711812846558/0161711812846558/185123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Action
+http://shooters.live:8080/0161711812846558/0161711812846558/185124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Super
+http://shooters.live:8080/0161711812846558/0161711812846558/185125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Shqip
+http://shooters.live:8080/0161711812846558/0161711812846558/185126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Smile
+http://shooters.live:8080/0161711812846558/0161711812846558/185127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Fantasy HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Histori
+http://shooters.live:8080/0161711812846558/0161711812846558/185133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alb Action HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kino SciFi HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185138
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Gold 1 HD [B]
+http://shooters.live:8080/0161711812846558/0161711812846558/185147
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Gold 2 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185148
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Gold 3 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Digi Gold 4 HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X Family
+http://shooters.live:8080/0161711812846558/0161711812846558/185153
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X Humor
+http://shooters.live:8080/0161711812846558/0161711812846558/185155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X Romance
+http://shooters.live:8080/0161711812846558/0161711812846558/185156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X Thriller
+http://shooters.live:8080/0161711812846558/0161711812846558/185157
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X Western
+http://shooters.live:8080/0161711812846558/0161711812846558/185158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Life
+http://shooters.live:8080/0161711812846558/0161711812846558/185159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Life
+http://shooters.live:8080/0161711812846558/0161711812846558/185161
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kanal D Drama FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Explorer Shkence HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Living FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185168
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring History
+http://shooters.live:8080/0161711812846558/0161711812846558/185169
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Planet
+http://shooters.live:8080/0161711812846558/0161711812846558/185170
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 24 Kitchen NL
+http://shooters.live:8080/0161711812846558/0161711812846558/185173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic
+http://shooters.live:8080/0161711812846558/0161711812846558/185174
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Travel Channel HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185175
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Discovery Science HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185176
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Baby TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185179
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV 21 Junior
+http://shooters.live:8080/0161711812846558/0161711812846558/185180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Junior TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Tring
+http://shooters.live:8080/0161711812846558/0161711812846558/185182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Kids
+http://shooters.live:8080/0161711812846558/0161711812846558/185183
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tring Tip TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lobi TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cufo HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sofia TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185188
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bang Bang FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185190
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boomerang
+http://shooters.live:8080/0161711812846558/0161711812846558/185191
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jim Jam [En Audio]
+http://shooters.live:8080/0161711812846558/0161711812846558/185193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTSH Muzik
+http://shooters.live:8080/0161711812846558/0161711812846558/185196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Folklorit HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Folklorit
+http://shooters.live:8080/0161711812846558/0161711812846558/185198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Alb Music HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185199
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Top Estrada TV HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Albania TV HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185202
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBF Music HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185203
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X Music Hits
+http://shooters.live:8080/0161711812846558/0161711812846558/185204
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zico TV FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185205
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Click TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185206
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MTV Kosova
+http://shooters.live:8080/0161711812846558/0161711812846558/185207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", My Music
+http://shooters.live:8080/0161711812846558/0161711812846558/185208
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Folk
+http://shooters.live:8080/0161711812846558/0161711812846558/185211
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lugina Popullore HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185212
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Syri Blue FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185213
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Turbo Channel
+http://shooters.live:8080/0161711812846558/0161711812846558/185214
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Uskana TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185215
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dasma TV
+http://shooters.live:8080/0161711812846558/0161711812846558/185216
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", First Channel FHD
+http://shooters.live:8080/0161711812846558/0161711812846558/185217
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Mitrovica HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", In TV HD
+http://shooters.live:8080/0161711812846558/0161711812846558/185222
+
