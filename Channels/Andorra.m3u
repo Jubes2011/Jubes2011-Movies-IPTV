@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATV.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_mobil_logo_22122020093710.png" group-title="General",ATV
+#EXTINF:-1 tvg-id="Andorradifusio.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_mobil_logo_22122020093710.png" group-title="General",ATV
 https://videos.rtva.ad/live/rtva/chunklist_w1693358743_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjM4MjI5MzczJndvd3phdG9rZW5lbmR0aW1lPTE2MzgyNTA5NzMmd293emF0b2tlbmhhc2g9SzFYZUZKVEN5ei1POWRWSlNadUhNRlJFcU1ZNGZBTlBvM2hWRExVRTF6QT0=.m3u8?wowzatokenstarttime=1638229373&wowzatokenendtime=1638250973&wowzatokenhash=K1XeFJTCyz-O9dVJSZuHMFREqMY4fANPo3hVDLUE1zA=
 #EXTINF:-1 tvg-id="Lightcast.com" tvg-country="AD" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71SgJT0+jwL.png" group-title="Religion", Emmanuel TV
 https://hls-live-web-media.cdn01.net/default/stream_39565_1.m3u8?KocuxWTZ15bJ5F9Jq9lyk37eV_XsbPqsvH4ocGXYpyB4OaDwn2GQ6XiHBp2OROZDw1DlnJYOH7N-J5V3NW0boJ_6YvSdrCkFavUl-D8ZV11RiY6s3_YL7BGBGJZHonoftIFiLUq4emVYaiQe071-SrOElAdnHcgXIt259Puu&channel_id=39565&source=Android&old_source=othermobile&device_id=8012319821-77d17fe24c0f1e6ee9f8ca001d54f0d6&lcp=2&play_id=1638230752873450
-#EXTINF:-1 tvg-id="ATV.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_mobil_logo_22122020093710.png" group-title="Music", ATV Radio FM
+#EXTINF:-1 tvg-id="Andorradifusio.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_mobil_logo_22122020093710.png" group-title="Music", ATV Radio FM
 https://videos.rtva.ad/live/rna/chunklist_w1684264899_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjM4MjMzMTcwJndvd3phdG9rZW5lbmR0aW1lPTE2MzgyNTQ3NzAmd293emF0b2tlbmhhc2g9QWYwTHpkc3BZWFNrcXNrY1o4bThLZEFhcENXT1g5R2xUZHVJajlvbTB5ST0=.m3u8
-#EXTINF:-1 tvg-id="ATV.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_mobil_logo_22122020093710.png" group-title="Music", ATV Radio AM
+#EXTINF:-1 tvg-id="Andorradifusio.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://www.andorradifusio.ad/images/logo/andorradifusio_mobil_logo_22122020093710.png" group-title="Music", ATV Radio AM
 https://videos.rtva.ad/live/am/chunklist_w957689431_tkd293emF0b2tlbnN0YXJ0dGltZT0xNjM4MjMzNTUzJndvd3phdG9rZW5lbmR0aW1lPTE2MzgyNTUxNTMmd293emF0b2tlbmhhc2g9R2FDeEludjFZNnNmZDUtTmNBUUwzcXpiYTZzb1NBOFBqSkZVTkJhN1pmaz0=.m3u8
