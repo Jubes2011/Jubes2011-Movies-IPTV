@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/XpR1VvZ.png" group-title="Undefined",Kayhan TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com

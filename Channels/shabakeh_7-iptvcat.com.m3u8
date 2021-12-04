@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",Shabakeh 7
+http://rtmp.abnsat.com/hls/txministry.m3u8?checkedby:iptvcat.com
