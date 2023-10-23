@@ -1,0 +1,51 @@
+https://doodapi.com/api/account/info?key={256698qd7072pjymzmccm3}
+{
+  "msg": "OK",
+  "server_time": "2017-08-11 04:30:07",
+  "status": 200,
+  "result": {
+      "email": "email@test.com",
+      "balance": "0.00000",
+      "storage_used" :"24186265",
+      "storage_left": 128824832615,
+      "premim_expire": "2025-10-24 21:00:00
+  }
+}
+https://doodapi.com/api/account/stats?key={256698qd7072pjymzmccm3}
+{
+  "msg": "OK",
+  "server_time": "2017-08-11 04:30:07",
+  "status": 200,
+  "result": [
+    {
+      "profit_views": "0.00000",
+      "downloads": "0",
+      "views": "0",
+      "day": "2017-08-11",
+      "profit_total": "0.00000"
+    },
+    {
+      "profit_views": "0.00000",
+      "downloads": "0",
+      "views": "0",
+      "day": "2017-08-12",
+      "profit_total": "0.00000"
+    }
+  ]
+}
+https://doodapi.com/api/dmca/list?key={256698qd7072pjymzmccm3}
+{
+  "msg": "OK",
+  "server_time": "2017-08-11 04:30:07",
+  "status": 200,
+  "result": [
+    {
+      "reported_on": "2017-08-11 04:30:07",
+      "protected_download": "yyy",
+      "protected_embed": "zzz",
+      "file_code": "xxx",
+      "fld_id": "0",
+      "disabled_on": "2017-08-11 05:00:07"
+    }
+  ]
+}
